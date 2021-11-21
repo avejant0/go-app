@@ -1,0 +1,18 @@
+{
+  "CN": "client",
+  "hosts": [
+  ],
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "RU",
+      "L": "Moscow",
+      "ST": "Moscow",
+      "O": "Bla-bla Company",
+      "OU": "CA Services"
+    }
+  ]
+}
